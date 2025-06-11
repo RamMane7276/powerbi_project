@@ -32,7 +32,7 @@ This Power BI dashboard provides an in-depth analysis of sales performance acros
 
 ## 🖼 Sample Visuals (Optional)
 
-> *You can upload relevant screenshots here later. Example placeholder:*
+>https://github.com/RamMane7276/powerbi_project/blob/main/Screenshot%202025-06-11%20130212.png
 >
 > 
 
