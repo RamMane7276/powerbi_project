@@ -1,48 +1,47 @@
-# 📊 Student Marks Analysis Dashboard
+# 📊 Sales Performance Analysis Dashboard
 
 ## 🧾 Project Description
 
-This Power BI dashboard provides a comprehensive analysis of student performance across multiple subjects. Designed to help educators and school administrators make data-driven decisions, it offers an at-a-glance view of class performance, top-scoring students, and subject-wise trends. By transforming raw marks into visual insights, this dashboard enhances academic monitoring and enables targeted intervention.
+This Power BI dashboard provides an in-depth analysis of sales performance across regions, product categories, and time periods. Designed to support sales managers and business decision-makers, the dashboard translates raw transactional data into clear visual insights to optimize sales strategy and identify growth opportunities.
 
 ## 📁 Dataset
 
-- **File Name:** `Sales_Data![image](https://github.com/user-attachments/assets/ec792388-0c23-4d3d-aea8-9e0ac895209c)
-.xlsx` *(To be uploaded separately)*
-- **Contents:** Student names, subjects, marks scored, and class-wise distribution.
+* **File Name:** `Sales_Data_Dataset.xlsx`
+* **Contents:** Transaction date, region, product category, quantity sold, sales amount, and profit.
 
 ## 🛠 Tools Used
 
-- **Power BI Desktop**  
-- **Power Query**  
-- **Data Modeling & DAX**  
-- **Visualization Tools (Cards, Bar Charts, Slicers)**
+* **Power BI Desktop**
+* **Power Query for Data Transformation**
+* **Data Modeling & DAX Calculations**
+* **Visualization Tools (Cards, Bar/Column Charts, Line Graphs, Slicers)**
 
 ## 📈 Key Features
 
-- **Average Marks per Subject**  
-  View and compare subject-wise academic strength with bar visuals.
+* **Overall Sales KPIs**
+  Track total sales, total profit, and quantity sold using card visuals.
 
-- **Top 5 Students by Total Marks**  
-  A leaderboard-style visual to identify the top performers.
+* **Region-wise and Category-wise Sales**
+  Compare performance across regions and product categories using bar charts.
 
-- **Subject-wise Performance**  
-  Analyze individual subject trends and performance variation.
+* **Monthly Sales Trend**
+  Analyze how sales have varied over time using a line chart.
 
-- **Slicer for Class Selection**  
-  Dynamic filtering of the report based on the class for focused analysis.
+* **Interactive Slicers**
+  Use slicers to filter data by Region, Category, or Month for dynamic analysis.
 
 ## 🖼 Sample Visuals (Optional)
 
 > *You can upload relevant screenshots here later. Example placeholder:*
 >
-> ![Subject-wise Bar Chart](images/subject-bar-chart.png)
+> ![Monthly Sales Trend](images/monthly-sales-line.png)
 
 ## 📌 How to Use
 
-1. Download and open the `.pbix` file in **Power BI Desktop**.
-2. Load the `Student_Marks.xlsx` dataset.
-3. Use the slicer to filter by class and explore student performance across subjects.
-4. Customize the visuals or extend the report as needed.
+1. Open the `.pbix` file using **Power BI Desktop**.
+2. Load the `Sales_Data_Dataset.xlsx` file through the "Transform Data" section.
+3. Use filters and slicers to analyze sales by region, category, and date.
+4. Customize visuals or add new insights as needed for your use case.
 
 ## 👤 Author
 
@@ -52,4 +51,5 @@ This Power BI dashboard provides a comprehensive analysis of student performance
 
 ## 🔖 Tags
 
-`Power BI` `Student Dashboard` `Data Analysis` `Educational Insights` `Academic Performance` `Data Visualization`
+`Power BI` `Sales Dashboard` `Data Analysis` `Business Insights` `Sales Performance` `Data Visualization`
+
