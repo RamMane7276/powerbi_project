@@ -1,50 +1,49 @@
-# 📊 Sales Performance Analysis Dashboard
-
-## 🧾 Project Description
-
+📊 Sales Performance Analysis Dashboard
+🧾 Project Description
 This Power BI dashboard provides an in-depth analysis of sales performance across regions, product categories, and time periods. Designed to support sales managers and business decision-makers, the dashboard translates raw transactional data into clear visual insights to optimize sales strategy and identify growth opportunities.
 
-## 📁 Dataset
+📁 Dataset
+File Name: Sales_Data_Dataset.xlsx
 
-* **File Name:** `Sales_Data_Dataset.xlsx`
-* **Contents:** Transaction date, region, product category, quantity sold, sales amount, and profit.
+Contents: Transaction date, region, product category, quantity sold, sales amount, and profit.
 
-## 🛠 Tools Used
+🛠 Tools Used
+Power BI Desktop
 
-* **Power BI Desktop**
-* **Power Query for Data Transformation**
-* **Data Modeling & DAX Calculations**
-* **Visualization Tools (Cards, Bar/Column Charts, Line Graphs, Slicers)**
+Power Query for Data Transformation
 
-## 📈 Key Features
+Data Modeling & DAX Calculations
 
-* **Overall Sales KPIs**
-  Track total sales, total profit, and quantity sold using card visuals.
+Visualization Tools (Cards, Bar/Column Charts, Line Graphs, Slicers)
 
-* **Region-wise and Category-wise Sales**
-  Compare performance across regions and product categories using bar charts.
+📈 Key Features
+Overall Sales KPIs
+Track total sales, total profit, and quantity sold using card visuals.
 
-* **Monthly Sales Trend**
-  Analyze how sales have varied over time using a line chart.
+Region-wise and Category-wise Sales
+Compare performance across regions and product categories using bar charts.
 
-* **Interactive Slicers**
-  Use slicers to filter data by Region, Category, or Month for dynamic analysis.
+Monthly Sales Trend
+Analyze how sales have varied over time using a line chart.
+
+Interactive Slicers
+Use slicers to filter data by Region, Category, or Month for dynamic analysis.
+
+🖼 Sample Visuals (Optional)
+ Example placeholder:Screenshot 2025-06-11 130212.png
 
 
-## 📌 How to Use
+📌 How to Use
+Open the .pbix file using Power BI Desktop.
 
-1. Open the `.pbix` file using **Power BI Desktop**.
-2. Load the `Sales_Data_Dataset.xlsx` file through the "Transform Data" section.
-3. Use filters and slicers to analyze sales by region, category, and date.
-4. Customize visuals or add new insights as needed for your use case.
+Load the Sales_Data_Dataset.xlsx file through the "Transform Data" section.
 
-## 👤 Author
+Use filters and slicers to analyze sales by region, category, and date.
 
-**Ram Mane**
+Customize visuals or add new insights as needed for your use case.
 
----
+👤 Author
+Ram Mane
 
-## 🔖 Tags
-
-`Power BI` `Sales Dashboard` `Data Analysis` `Business Insights` `Sales Performance` `Data Visualization`
-
+🔖 Tags
+Power BI Sales Dashboard Data Analysis Business Insights Sales Performance Data Visualization
