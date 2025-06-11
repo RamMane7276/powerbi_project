@@ -30,11 +30,6 @@ This Power BI dashboard provides an in-depth analysis of sales performance acros
 * **Interactive Slicers**
   Use slicers to filter data by Region, Category, or Month for dynamic analysis.
 
-## 🖼 Sample Visuals (Optional)
-
-> *You can upload relevant screenshots here later. Example placeholder:*
->
-> ![Monthly Sales Trend](images/monthly-sales-line.png)
 
 ## 📌 How to Use
 
