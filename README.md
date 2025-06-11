@@ -34,7 +34,7 @@ This Power BI dashboard provides an in-depth analysis of sales performance acros
 
 > *You can upload relevant screenshots here later. Example placeholder:*
 >
-> ![Screenshot 2025-06-11 130212.png)
+> 
 
 ## 📌 How to Use
 
